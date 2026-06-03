@@ -10,7 +10,7 @@ def home():
     <input type="text">
     <a href="https://souleater.fandom.com/pt-br/wiki/Soul_Eater_Wiki">Soul Eater Wiki</a>
     <style>
-        body { background-color: red;
+        body { background-color: purple;
       }  h1 { color: white; }
     </style>
     """
