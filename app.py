@@ -13,8 +13,12 @@ def home():
         body { background-color: gray;
       }  h1 { color: white; }
     </style>
-    <iframe width="0" height="0" 
-src="https://www.youtube.com/embed/C_y09j8KPA8?autoplay=1&loop=1" 
+ <button onclick="document.getElementById('musica').src += '&autoplay=1'">
+    Tocar música
+</button>
+
+<iframe id="musica" width="0" height="0" 
+src="https://www.youtube.com/embed/C_y09j8KPA8?loop=1" 
 allow="autoplay">
 </iframe>
        """
