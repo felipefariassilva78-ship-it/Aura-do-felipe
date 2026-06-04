@@ -18,11 +18,6 @@ def home():
         background-position: center;
       }  h1 { color: Black; }
     </style>
-    p,button,a { 
-    backgound: rgba(0, 0, 0, 0.8):
-    backdrop-filter: blur(5px);
-    }
-
  <button onclick="document.getElementById('musica').src += '&autoplay=1'">
     Abertura de Soul Eater
 </button>
