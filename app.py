@@ -16,7 +16,8 @@ def home():
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
-      }  h1 { color: Black; }
+        <p> {color: White; 
+      }  h1 { color: White; }
     </style>
  <button onclick="document.getElementById('musica').src += '&autoplay=1'">
     Abertura de Soul Eater
