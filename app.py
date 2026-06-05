@@ -48,11 +48,14 @@ def home():
   
      
        <style>
+    img: hover {
+    opacity: 0.7;
+    }
     p {
     color: White;
     }
         body { 
-        background-image: url('https://i.pinimg.com/736x/e4/a6/a6/e4a6a695f93c4c61bef0dc501f4425b4.jpg');
+        background-image: url('https://w.wallhaven.cc/full/4y/wallhaven-4y5kzl.jpg');
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
@@ -77,4 +80,3 @@ allow="autoplay">
        """
 
 app.run(debug=True, host="0.0.0.0", port=10000)
-
