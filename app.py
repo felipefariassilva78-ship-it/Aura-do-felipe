@@ -5,7 +5,8 @@ app = Flask(__name__)
 @app.route("/")
 def home():
     return """
-    <h1>The soul eater </h1>
+    <h1>☠️ SOUL EATER ☠️</h1>
+    <hr>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
     <p>Soul Eater (ソウルイーター, Sōru Ītā) conta a história de uma escola fictícia chamada Shibusen, localizada no estado americano de Nevada, criada para eliminar os ovos de Kishins, que são seres devoradores de almas humanas para se tornarem mais poderosos, e as Bruxas, que vivem aterrorizando o mundo. Os encarregados de eliminar esses seres são os artesãos, que além de eliminar os Kishins, devem ajudar suas armas a se tornarem Death Scythes, para o Shinigami usar como sua própria arma. Os artesãos devem fazer suas armas devorarem 99 ovos de Kishin e uma alma de bruxa para serem Death Scythes. O protagonista da série é Maka Albarn, uma jovem artesã que tem como arma o seu parceiro Soul Eater, um garoto que pode se transformar em uma foice. Juntos, eles enfrentam diversos desafios e inimigos enquanto buscam se tornar Death Scythes e proteger o mundo dos perigos que o ameaçam.</p>
     <a href="https://souleater.fandom.com/pt-br/wiki/Soul_Eater_Wiki" target="_blank">Soul Eater Wiki</a>
@@ -74,21 +75,107 @@ def home():
     <img src="https://i.pinimg.com/736x/37/c3/6b/37c36b04a8556dcbba9f669fe55f76eb.jpg" alt="Crona Gorgon" width="200" height="200">
     </div>
        <style>
-    img: hover {
-    opacity: 0.7;
-    }
-    p {
-    color: White;
-    }
-        body { 
-        background-image: url('https://w.wallhaven.cc/full/4y/wallhaven-4y5kzl.jpg');
-        background-size: cover;
-        background-attachment: fixed;
-        background-position: center;
-        } 
-       h1 {color: White !important; font-family: 'Cinzel', serif;} 
-      h2 { color: White !important; font-family: 'Cinzel', serif;}
-     
+body {
+    background-image: url('https://w.wallhaven.cc/full/4y/wallhaven-4y5kzl.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Cinzel', serif;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 15px red;
+}
+
+h2 {
+    color: white;
+    font-family: 'Cinzel', serif;
+    text-shadow: 0 0 10px red;
+    border-left: 4px solid red;
+    padding-left: 10px;
+    margin-top: 40px;
+}
+
+p {
+    color: white;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+a {
+    color: #ff4444;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-shadow: 0 0 10px red;
+}
+
+img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+
+    border: 3px solid red;
+    border-radius: 15px;
+    margin: 10px;
+
+    transition: all 0.3s ease;
+    box-shadow: 0 0 15px rgba(255, 0, 0, 0.5);
+}
+
+img:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 25px red;
+    border-color: white;
+}
+
+button {
+    background: #cc0000;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #ff0000;
+    transform: scale(1.05);
+    box-shadow: 0 0 15px red;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #111;
+}
+
+::-webkit-scrollbar-thumb {
+    background: red;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #ff3333;
+}
     </style>
 <button onclick="document.getElementById('musica').src += '&autoplay=1'">
     Abertura de Soul Eater
@@ -106,3 +193,4 @@ allow="autoplay">
        """
 
 app.run(debug=True, host="0.0.0.0", port=10000)
+
