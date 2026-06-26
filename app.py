@@ -39,38 +39,38 @@ def home():
     <img src="https://i.pinimg.com/736x/15/a4/d5/15a4d5cb058a583abe1b83badc75bd0c.jpg" alt="Patricia Thompson" width="200" height="200">
     <img src="https://i.pinimg.com/736x/98/9f/4d/989f4d83bf919ae7891bda0004e87ee7.jpg" alt="Patricia Thompson" width="200" height="200">
     </div>
-    <h2> Liz Thompson </h2>
-    <p>Liz Thompson (リズ・トンプソン, Rizu Tompuson) é um dos personagens principais da série. Ela é a irmã gêmea de Patricia Thompson e também pode se transformar em uma pistola. Liz é conhecida por sua personalidade calma e seu estilo de luta preciso. Ela é uma personagem carismática e leal, que tem um forte vínculo com seu parceiro, Death the Kid. Juntos, eles enfrentam diversos desafios e inimigos enquanto buscam alcançar seus objetivos.</p>
+     <h2> Liz Thompson </h2>
+            <p>Liz Thompson (リズ・トンプソン, Rizu Tompuson) é um dos personagens principais da série. Ela é a irmã gêmea de Patricia Thompson e também pode se transformar em uma pistola. Liz é conhecida por sua personalidade calma e seu estilo de luta preciso. Ela é uma personagem carismática e leal, que tem um forte vínculo com seu parceiro, Death the Kid. Juntos, eles enfrentam diversos desafios e inimigos enquanto buscam alcançar seus objetivos.</p>
     <div style="text-align: center;">
     <img src="https://i.pinimg.com/1200x/e1/8a/1c/e18a1c3d157a27de33ccc5a90bf42cda.jpg" alt="Liz Thompson" width="200" height="200">
     <img src="https://i.pinimg.com/736x/e2/47/c6/e247c6a742b3bcc10f08e7c486420eae.jpg" alt="Liz Thompson" width="200" height="200">
-    <img src="https://i.pinimg.com/736x/d1/65/08/d165084a1271bb713929ad5456c36d79.jpg" alt="Liz Thompson" width="200" height="200">
+        <img src="https://i.pinimg.com/736x/d1/65/08/d165084a1271bb713929ad5456c36d79.jpg" alt="Liz Thompson" width="200" height="200">
     </div>
     <h2> Black Star </h2>
     <p>Black Star (ブラック☆スター, Burakku Sutā) é um dos personagens principais da série. Ele é um artesão talentoso e um dos mais poderosos da escola Shibusen. Black Star é conhecido por sua personalidade extrovertida e seu estilo de luta agressivo. Ele é um personagem carismático e confiante, que tem um forte vínculo com seu parceiro, Tsubaki Nakatsukasa, que pode se transformar em várias armas diferentes. Juntos, eles enfrentam diversos desafios e inimigos enquanto buscam alcançar seus objetivos.</p>
     <div style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/15/cd/73/15cd7325366938f7b7c069a3dbb330a4.jpg" alt="Black Star" width="200" height="200">
+     <img src="https://i.pinimg.com/736x/15/cd/73/15cd7325366938f7b7c069a3dbb330a4.jpg" alt="Black Star" width="200" height="200">
     <img src="https://i.pinimg.com/736x/9a/02/39/9a0239afea33341584aea5f80fbcf718.jpg" alt="Black Star" width="200" height="200">
     <img src="https://i.pinimg.com/736x/e1/ff/c5/e1ffc5491e24efe17d688db96a890d2c.jpg" alt="Black Star" width="200" height="200">
     </div>
     <h2> Tsubaki Nakatsukasa </h2>
     <p>Tsubaki Nakatsukasa (中務 哲子, Nakatsukasa Tsubaki) é um dos personagens principais da série. Ela é a parceira de Black Star e pode se transformar em várias armas diferentes, incluindo uma foice, uma espada e uma lança. Tsubaki é conhecida por sua personalidade calma e seu estilo de luta versátil. Ela é uma personagem carismática e leal, que tem um forte vínculo com seu parceiro, Black Star. Juntos, eles enfrentam diversos desafios e inimigos enquanto buscam alcançar seus objetivos.</p>
-    <div style="text-align: center;">
+           <div style="text-align: center;">
     <img src="https://i.pinimg.com/736x/ce/10/de/ce10dec5cffee9ebcf4350f78aad96da.jpg" alt="Tsubaki Nakatsukasa" width="200" height="200">
     <img src="https://i.pinimg.com/736x/17/1f/28/171f284be1f616060060a0900d15326e.jpg" alt="Tsubaki Nakatsukasa" width="200" height="200">
-    <img src="https://i.pinimg.com/1200x/f9/94/0c/f9940cf4be8ddf3e00e88684abcff2f9.jpg" alt="Tsubaki Nakatsukasa" width="200" height="200">
+      <img src="https://i.pinimg.com/1200x/f9/94/0c/f9940cf4be8ddf3e00e88684abcff2f9.jpg" alt="Tsubaki Nakatsukasa" width="200" height="200">
     </div>
-    <h2> Shinigami </h2>
+         <h2> Shinigami </h2>
     <p>Shinigami (死神, Shinigami) é o diretor da escola Shibusen e o pai de Death the Kid. Ele é um personagem carismático e excêntrico, conhecido por sua aparência distinta, que inclui uma máscara de caveira e um terno elegante. Shinigami é um poderoso artesão e um dos personagens mais importantes da série, desempenhando um papel crucial na história e no desenvolvimento dos personagens principais.</p>
     <div style="text-align: center;">
     <img src="https://i.pinimg.com/736x/02/2e/2e/022e2e917a53a2072ccd4f11dffb1080.jpg" alt="Shinigami" width="200" height="200">
-    <img src="https://i.pinimg.com/736x/28/ba/85/28ba8572f94f043507757c379c88785d.jpg" alt="Shinigami" width="200" height="200">
+          <img src="https://i.pinimg.com/736x/28/ba/85/28ba8572f94f043507757c379c88785d.jpg" alt="Shinigami" width="200" height="200">
     <img src="https://i.pinimg.com/1200x/f2/2a/41/f22a41e4a3e776c13f7f1cee70fb97d8.jpg" alt="Shinigami" width="200" height="200">
     </div>
     <h2> Crona Gorgon </h2>
     <p>Crona (クロナ, Kurona) é um dos personagens principais da série. Ele é um jovem artesão que tem uma personalidade tímida e insegura, e é o parceiro de Ragnarok, uma arma que pode se transformar em uma espada. Crona é conhecido por sua luta interna com seus próprios medos e inseguranças, e por sua jornada de autodescoberta ao longo da série. Ele é um personagem complexo e interessante, que desempenha um papel importante na história e no desenvolvimento dos personagens principais.</p>
     <div style="text-align: center;">
-    <img src="https://i.pinimg.com/736x/f4/a9/b0/f4a9b084c84a2ca128aa269727d4de7a.jpg" alt="Crona Gorgon" width="200" height="200">
+      <img src="https://i.pinimg.com/736x/f4/a9/b0/f4a9b084c84a2ca128aa269727d4de7a.jpg" alt="Crona Gorgon" width="200" height="200">
     <img src="https://i.pinimg.com/736x/8d/04/ec/8d04ec0c2e205a774a392375edda83a3.jpg" alt="Crona Gorgon" width="200" height="200">
     <img src="https://i.pinimg.com/736x/37/c3/6b/37c36b04a8556dcbba9f669fe55f76eb.jpg" alt="Crona Gorgon" width="200" height="200">
     </div>
@@ -192,5 +192,6 @@ allow="autoplay">
 
        """
 
-app.run(debug=True, host="0.0.0.0", port=10000)
+if __name__ == "__main__":
+    app.run(debug=True)
 
